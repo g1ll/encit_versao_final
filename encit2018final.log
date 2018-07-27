@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.1)  27 JUL 2018 14:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.1)  27 JUL 2018 14:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -542,7 +542,23 @@ Now handling font encoding U ...
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
 ))
-(./encit2018final.aux)
+(./encit2018final.aux
+
+LaTeX Warning: Label `figure02:sub1' multiply defined.
+
+
+LaTeX Warning: Label `sub@figure02:sub1' multiply defined.
+
+
+LaTeX Warning: Label `figure02:sub2' multiply defined.
+
+
+LaTeX Warning: Label `sub@figure02:sub2' multiply defined.
+
+
+LaTeX Warning: Label `figure02' multiply defined.
+
+)
 \openout1 = `encit2018final.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -560,7 +576,8 @@ LaTeX Font Info:    ... okay on input line 16.
 LaTeX Font Info:    Try loading font information for T1+ptm on input line 16.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
-) (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+)
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count105
 \scratchdimen=\dimen126
@@ -739,39 +756,54 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: imgs/de_300_iter/g_hl_tmim_1.png Graphic file (type png)
 <use imgs/de_300_iter/g_hl_tmim_1.png>
 Package pdftex.def Info: imgs/de_300_iter/g_hl_tmim_1.png  used on input line 1
-20.
-(pdftex.def)             Requested size: 290.22105pt x 173.52046pt.
- (./encit2018final.bbl [4 <./imgs/h0l0_h2l2_en.png> <./imgs/h0l0_tmim_en.png> <
-./imgs/de_300_iter/g_hl_tmim_1.png (PNG copy)>]) [5] (./encit2018final.aux) ) 
+29.
+(pdftex.def)             Requested size: 251.52441pt x 150.3818pt.
+<imgs/sa_c_300_iter/g_hl_tmim_1.png, id=31, 137.5539pt x 82.3878pt>
+File: imgs/sa_c_300_iter/g_hl_tmim_1.png Graphic file (type png)
+<use imgs/sa_c_300_iter/g_hl_tmim_1.png>
+Package pdftex.def Info: imgs/sa_c_300_iter/g_hl_tmim_1.png  used on input line
+ 135.
+(pdftex.def)             Requested size: 251.52441pt x 150.65752pt.
+
+Overfull \hbox (19.35199pt too wide) in paragraph at lines 127--139
+ []$[]$$[]$ 
+ []
+
+(./encit2018final.bbl [4 <./imgs/h0l0_h2l2_en.png> <./imgs/h0l0_tmim_en.png> <.
+/imgs/de_300_iter/g_hl_tmim_1.png (PNG copy)> <./imgs/sa_c_300_iter/g_hl_tmim_1
+.png>]) [5] (./encit2018final.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5074 strings out of 494862
- 72319 string characters out of 6178947
- 147809 words of memory out of 5000000
- 8290 multiletter control sequences out of 15000+600000
+ 5083 strings out of 494862
+ 72565 string characters out of 6178947
+ 147848 words of memory out of 5000000
+ 8298 multiletter control sequences out of 15000+600000
  31792 words of font info for 39 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
  42i,11n,45p,1685b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/
-usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
-r7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/ut
-mbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on encit2018final.pdf (5 pages, 557453 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
+s/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on encit2018final.pdf (5 pages, 639893 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 97 PDF objects out of 1000 (max. 8388607)
  65 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
 

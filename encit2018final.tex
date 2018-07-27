@@ -115,10 +115,28 @@ The results of the four DOFs optimization process performed by thirty runs of ea
 
 For the five DOFs optimization, was run four versions of DE algorithm that differs on Crossover and Mutation parameters, as well as, five versions of SA algorithm with different Cooling Schedule parameter. For each ratio of H/L were performed thirty runs of each one of nine algorithms and recorded the maximum excess of temperature four times minimized and the optimal geometry achieved by the algorithms on each operation. Statistical measures also were stored on the database, as well as, the minimal values of the maximum excess of temperature four times minimized and its respective optimal geometries. With those results was possible assembly the graphical analysis in the Figure \ref{figure03}. In the Fig. \ref{figure03}, the minimal values of the maximum excess of temperature four times optimized are represented by the line black, and other curves represent the average of this value reached for each algorithm. 
 
-\begin{figure}[h!]
+%\begin{figure}[h!]
+%\centering
+%\includegraphics[width=0.6\linewidth]{imgs/de_300_iter/g_hl_tmim_1.png}
+%\caption{ {\small Computational domain of Double-T shaped cavity.}}
+%\label{figure03}
+%\end{figure}
+
+\begin{figure}[h]
 \centering
-\includegraphics[width=0.6\linewidth]{imgs/de_300_iter/g_hl_tmim_1.png}
-\caption{ {\small Computational domain of Double-T shaped cavity.}}
+	\begin{subfigure}{0.52\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{imgs/de_300_iter/g_hl_tmim_1.png}
+		\caption{ {\small Effect over $(H_{2}/L_{2})_{3xo}$}}
+		\label{figure03:sub1}
+	\end{subfigure}%
+	\begin{subfigure}{0.52\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{imgs/sa_c_300_iter/g_hl_tmim_1.png}
+		\caption{ {\small Effect over $({\theta}_{max})_{3\times m}$}}
+		\label{figure03:sub2}
+	\end{subfigure}%
+\caption{Effect of $H/L$ over $({\theta}_{max})_{4\times m}$}
 \label{figure03}
 \end{figure}
 
