@@ -95,17 +95,17 @@ The geometric optimization of double-t shaped cavities is realized by the variat
 The results of the four DOFs optimization process performed by thirty runs of each algorithm, with two versions of SA and three versions of DE algorithm, were performed and saved in a database. All the algorithms conduct to the optimal geometry and maximum excess of temperature three times minimized. However, because of the stochastic nature, the algorithms do not produce the same results in all thirty rounds, and the average value is obtained to construct the graphics shown in Figure \ref{figure02}, allowing to observe the algorithm version that is closer to the correct result.
 
 
-\begin{figure}[h]
+\begin{figure}[!h]
 \centering
 	\begin{subfigure}{0.52\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{imgs/h0l0_h2l2.png}
-		\caption{ {\small Effect over $(H_{2}/L_{2})_{3xo}$}}
+		\includegraphics[width=1\linewidth]{imgs/4dof/h0l0-tmin.png}
+		\caption{ {\small Effect over $(H_{2}/L_{2})_{3\times o}$}}
 		\label{figure02:sub1}
 	\end{subfigure}%
 	\begin{subfigure}{0.52\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{imgs/h0l0_tmim_en}
+		\includegraphics[width=1\linewidth]{imgs/4dof/h0l0-h2l2.png}
 		\caption{ {\small Effect over $({\theta}_{max})_{3\times m}$}}
 		\label{figure02:sub2}
 	\end{subfigure}%
@@ -113,7 +113,26 @@ The results of the four DOFs optimization process performed by thirty runs of ea
 \label{figure02}
 \end{figure}
 
-For the five DOFs optimization, was run four versions of DE algorithm that differs on Crossover and Mutation parameters, as well as, five versions of SA algorithm with different Cooling Schedule parameter. For each ratio of H/L were performed thirty runs of each algorithm and recorded the maximum excess of temperature four times minimized and the optimal geometry Effect obtained by the algorithms on each operation. Statistical measures also were stored on the database, as well as, the minimal values of the maximum excess of temperature four times minimized and its respective optimal geometries. The Figure \ref{figure03} shows  the minimal values of the maximum excess of temperature four times minimized represented by the black line, and other curves represents the average of this value reached for each algorithm. 
+
+\begin{figure}[!h]
+\centering
+	\begin{subfigure}{0.52\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{imgs/4dof/h0l0-h1l1.png}
+		\caption{ {\small Effect over $(H_{1}/L_{1})_{2\times o}$}}
+		\label{figure03:sub1}
+	\end{subfigure}%
+	\begin{subfigure}{0.52\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{imgs/4dof/h0l0_s1h0.png}
+		\caption{ {\small Effect over $(S_{1}/H_{0})_{o}$}}
+		\label{figure03:sub2}
+	\end{subfigure}%
+\caption{Effect of $H_{0}/L_{0}$}
+\label{figure03}
+\end{figure}
+
+For the five DOFs optimization, was run four versions of DE algorithm that differs on Crossover and Mutation parameters, as well as, five versions of SA algorithm with different Cooling Schedule parameter. For each ratio of H/L were performed thirty runs of each algorithm and recorded the maximum excess of temperature four times minimized and the optimal geometry Effect obtained by the algorithms on each operation. Statistical measures also were stored on the database, as well as, the minimal values of the maximum excess of temperature four times minimized and its respective optimal geometries. The Figure \ref{figure04} shows  the minimal values of the maximum excess of temperature four times minimized represented by the black line, and other curves represents the average of this value reached for each algorithm. 
 
 %\begin{figure}[h!]
 %\centering
@@ -126,37 +145,17 @@ For the five DOFs optimization, was run four versions of DE algorithm that diffe
 \centering
 	\begin{subfigure}{0.52\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{imgs/de/g_hl_tmin_1.png}
-		\caption{ {\small Effect obtained by different versions of DE algorithm.}}
-		\label{figure03:sub1}
-	\end{subfigure}%
-	\begin{subfigure}{0.52\textwidth}
-		\centering
-		\includegraphics[width=1\linewidth]{imgs/sa/g_hl_tmin_1.png}
-		\caption{ {\small Effect obtained by different versions of SA algorithm.}}
-		\label{figure03:sub2}
-	\end{subfigure}%
-\caption{Effect of $H/L$ over $({\theta}_{max})_{4\times m}$}
-\label{figure03}
-\end{figure}
-
-The Figure \ref{figure04} show the comparison between the results...
-
-\begin{figure}[h!]
-\centering
-	\begin{subfigure}{0.52\textwidth}
-		\centering
-		\includegraphics[width=1\linewidth]{imgs/de/g_hl_h0l0_1.png}
+		\includegraphics[width=1\linewidth]{imgs/5dof/de/g_hl_tmin_1.png}
 		\caption{ {\small Effect obtained by different versions of DE algorithm.}}
 		\label{figure04:sub1}
 	\end{subfigure}%
 	\begin{subfigure}{0.52\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{imgs/sa/g_hl_h0l0_1.png}
+		\includegraphics[width=1\linewidth]{imgs/5dof/sa/g_hl_tmin_1.png}
 		\caption{ {\small Effect obtained by different versions of SA algorithm.}}
 		\label{figure04:sub2}
 	\end{subfigure}%
-\caption{Effect of $H/L$ over ${(H_{0}/L_{0})_{4\times O}}$}
+\caption{Effect of $H/L$ over $({\theta}_{max})_{4\times m}$}
 \label{figure04}
 \end{figure}
 
@@ -166,20 +165,19 @@ The Figure \ref{figure05} show the comparison between the results...
 \centering
 	\begin{subfigure}{0.52\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{imgs/de/g_hl_h2l2_1.png}
+		\includegraphics[width=1\linewidth]{imgs/5dof/de/g_hl_h0l0_1.png}
 		\caption{ {\small Effect obtained by different versions of DE algorithm.}}
 		\label{figure05:sub1}
 	\end{subfigure}%
 	\begin{subfigure}{0.52\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{imgs/sa/g_hl_h2l2_1.png}
+		\includegraphics[width=1\linewidth]{imgs/5dof/sa/g_hl_h0l0_1.png}
 		\caption{ {\small Effect obtained by different versions of SA algorithm.}}
 		\label{figure05:sub2}
 	\end{subfigure}%
-\caption{Effect of $H/L$ over ${(H_{2}/L_{2})_{3\times O}}$}
+\caption{Effect of $H/L$ over ${(H_{0}/L_{0})_{4\times O}}$}
 \label{figure05}
 \end{figure}
-
 
 The Figure \ref{figure06} show the comparison between the results...
 
@@ -187,19 +185,20 @@ The Figure \ref{figure06} show the comparison between the results...
 \centering
 	\begin{subfigure}{0.52\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{imgs/de/g_hl_h1l1_1.png}
+		\includegraphics[width=1\linewidth]{imgs/5dof/de/g_hl_h2l2_1.png}
 		\caption{ {\small Effect obtained by different versions of DE algorithm.}}
 		\label{figure06:sub1}
 	\end{subfigure}%
 	\begin{subfigure}{0.52\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{imgs/sa/g_hl_h1l1_1.png}
+		\includegraphics[width=1\linewidth]{imgs/5dof/sa/g_hl_h2l2_1.png}
 		\caption{ {\small Effect obtained by different versions of SA algorithm.}}
 		\label{figure06:sub2}
 	\end{subfigure}%
-\caption{Effect of $H/L$ over ${(H_{1}/L_{1})_{2\times O}}$}
+\caption{Effect of $H/L$ over ${(H_{2}/L_{2})_{3\times O}}$}
 \label{figure06}
 \end{figure}
+
 
 The Figure \ref{figure07} show the comparison between the results...
 
@@ -207,18 +206,38 @@ The Figure \ref{figure07} show the comparison between the results...
 \centering
 	\begin{subfigure}{0.52\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{imgs/de/g_hl_s1h0_1.png}
+		\includegraphics[width=1\linewidth]{imgs/5dof/de/g_hl_h1l1_1.png}
 		\caption{ {\small Effect obtained by different versions of DE algorithm.}}
 		\label{figure07:sub1}
 	\end{subfigure}%
 	\begin{subfigure}{0.52\textwidth}
 		\centering
-		\includegraphics[width=1\linewidth]{imgs/sa/g_hl_s1h0_1.png}
+		\includegraphics[width=1\linewidth]{imgs/5dof/sa/g_hl_h1l1_1.png}
 		\caption{ {\small Effect obtained by different versions of SA algorithm.}}
 		\label{figure07:sub2}
 	\end{subfigure}%
-\caption{Effect of $H/L$ over ${(S_{1}/H_{1})_{2\times O}}$}
+\caption{Effect of $H/L$ over ${(H_{1}/L_{1})_{2\times O}}$}
 \label{figure07}
+\end{figure}
+
+The Figure \ref{figure08} show the comparison between the results...
+
+\begin{figure}[h!]
+\centering
+	\begin{subfigure}{0.52\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{imgs/5dof/de/g_hl_s1h0_1.png}
+		\caption{ {\small Effect obtained by different versions of DE algorithm.}}
+		\label{figure08:sub1}
+	\end{subfigure}%
+	\begin{subfigure}{0.52\textwidth}
+		\centering
+		\includegraphics[width=1\linewidth]{imgs/5dof/sa/g_hl_s1h0_1.png}
+		\caption{ {\small Effect obtained by different versions of SA algorithm.}}
+		\label{figure08:sub2}
+	\end{subfigure}%
+\caption{Effect of $H/L$ over ${(S_{1}/H_{1})_{2\times O}}$}
+\label{figure08}
 \end{figure}
 
 \section{CONCLUSIONS}
