@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.1)  29 JUL 2018 03:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.5.1)  29 JUL 2018 16:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -712,110 +712,134 @@ LaTeX Warning: Command \textcircled invalid in math mode on input line 89.
 
 LaTeX Warning: Command \textcircled invalid in math mode on input line 89.
 
-<imgs/h0l0_h2l2.png, id=25, 96.23955pt x 91.42155pt>
-File: imgs/h0l0_h2l2.png Graphic file (type png)
-<use imgs/h0l0_h2l2.png>
-Package pdftex.def Info: imgs/h0l0_h2l2.png  used on input line 102.
-(pdftex.def)             Requested size: 251.52441pt x 238.94446pt.
+<imgs/4dof/h0l0-tmin.png, id=25, 763.85374pt x 743.77875pt>
+File: imgs/4dof/h0l0-tmin.png Graphic file (type png)
+<use imgs/4dof/h0l0-tmin.png>
+Package pdftex.def Info: imgs/4dof/h0l0-tmin.png  used on input line 102.
+(pdftex.def)             Requested size: 251.52441pt x 244.91434pt.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <9> on input line 103.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 103.
-<imgs/h0l0_tmim_en.png, id=26, 116.8365pt x 82.74915pt>
-File: imgs/h0l0_tmim_en.png Graphic file (type png)
-<use imgs/h0l0_tmim_en.png>
-Package pdftex.def Info: imgs/h0l0_tmim_en.png  used on input line 108.
-(pdftex.def)             Requested size: 251.52441pt x 178.15338pt.
+<imgs/4dof/h0l0-h2l2.png, id=26, 766.865pt x 740.7675pt>
+File: imgs/4dof/h0l0-h2l2.png Graphic file (type png)
+<use imgs/4dof/h0l0-h2l2.png>
+Package pdftex.def Info: imgs/4dof/h0l0-h2l2.png  used on input line 108.
+(pdftex.def)             Requested size: 251.52441pt x 242.962pt.
 
 Overfull \hbox (19.35199pt too wide) in paragraph at lines 100--112
  []$[]$$[]$ 
  []
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imgs/4dof/h0l0-h1l1.png, id=27, 755.82375pt x 738.76pt>
+File: imgs/4dof/h0l0-h1l1.png Graphic file (type png)
+<use imgs/4dof/h0l0-h1l1.png>
+Package pdftex.def Info: imgs/4dof/h0l0-h1l1.png  used on input line 121.
+(pdftex.def)             Requested size: 251.52441pt x 245.84315pt.
+<imgs/4dof/h0l0_s1h0.png, id=28, 751.80875pt x 750.805pt>
+File: imgs/4dof/h0l0_s1h0.png Graphic file (type png)
+<use imgs/4dof/h0l0_s1h0.png>
+Package pdftex.def Info: imgs/4dof/h0l0_s1h0.png  used on input line 127.
+(pdftex.def)             Requested size: 251.52441pt x 251.19186pt.
+
+Overfull \hbox (19.35199pt too wide) in paragraph at lines 119--131
+ []$[]$$[]$ 
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [3]
-<imgs/de/g_hl_tmin_1.png, id=30, 757.83125pt x 739.76375pt>
-File: imgs/de/g_hl_tmin_1.png Graphic file (type png)
-<use imgs/de/g_hl_tmin_1.png>
-Package pdftex.def Info: imgs/de/g_hl_tmin_1.png  used on input line 129.
+<imgs/5dof/de/g_hl_tmin_1.png, id=32, 757.83125pt x 739.76375pt>
+File: imgs/5dof/de/g_hl_tmin_1.png Graphic file (type png)
+<use imgs/5dof/de/g_hl_tmin_1.png>
+Package pdftex.def Info: imgs/5dof/de/g_hl_tmin_1.png  used on input line 148.
 (pdftex.def)             Requested size: 251.52441pt x 245.52248pt.
-<imgs/sa/g_hl_tmin_1.png, id=31, 758.835pt x 731.73375pt>
-File: imgs/sa/g_hl_tmin_1.png Graphic file (type png)
-<use imgs/sa/g_hl_tmin_1.png>
-Package pdftex.def Info: imgs/sa/g_hl_tmin_1.png  used on input line 135.
+<imgs/5dof/sa/g_hl_tmin_1.png, id=33, 758.835pt x 731.73375pt>
+File: imgs/5dof/sa/g_hl_tmin_1.png Graphic file (type png)
+<use imgs/5dof/sa/g_hl_tmin_1.png>
+Package pdftex.def Info: imgs/5dof/sa/g_hl_tmin_1.png  used on input line 154.
 (pdftex.def)             Requested size: 251.52441pt x 242.53358pt.
 
-Overfull \hbox (19.35199pt too wide) in paragraph at lines 127--139
+Overfull \hbox (19.35199pt too wide) in paragraph at lines 146--158
  []$[]$$[]$ 
  []
 
-<imgs/de/g_hl_h0l0_1.png, id=32, 757.83125pt x 736.7525pt>
-File: imgs/de/g_hl_h0l0_1.png Graphic file (type png)
-<use imgs/de/g_hl_h0l0_1.png>
-Package pdftex.def Info: imgs/de/g_hl_h0l0_1.png  used on input line 149.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<imgs/5dof/de/g_hl_h0l0_1.png, id=34, 757.83125pt x 736.7525pt>
+File: imgs/5dof/de/g_hl_h0l0_1.png Graphic file (type png)
+<use imgs/5dof/de/g_hl_h0l0_1.png>
+Package pdftex.def Info: imgs/5dof/de/g_hl_h0l0_1.png  used on input line 168.
 (pdftex.def)             Requested size: 251.52441pt x 244.52307pt.
-<imgs/sa/g_hl_h0l0_1.png, id=33, 755.82375pt x 730.73pt>
-File: imgs/sa/g_hl_h0l0_1.png Graphic file (type png)
-<use imgs/sa/g_hl_h0l0_1.png>
-Package pdftex.def Info: imgs/sa/g_hl_h0l0_1.png  used on input line 155.
+<imgs/5dof/sa/g_hl_h0l0_1.png, id=35, 755.82375pt x 730.73pt>
+File: imgs/5dof/sa/g_hl_h0l0_1.png Graphic file (type png)
+<use imgs/5dof/sa/g_hl_h0l0_1.png>
+Package pdftex.def Info: imgs/5dof/sa/g_hl_h0l0_1.png  used on input line 174.
 (pdftex.def)             Requested size: 251.52441pt x 243.17094pt.
 
-Overfull \hbox (19.35199pt too wide) in paragraph at lines 147--159
+Overfull \hbox (19.35199pt too wide) in paragraph at lines 166--178
  []$[]$$[]$ 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imgs/de/g_hl_h2l2_1.png, id=34, 796.9775pt x 741.77126pt>
-File: imgs/de/g_hl_h2l2_1.png Graphic file (type png)
-<use imgs/de/g_hl_h2l2_1.png>
-Package pdftex.def Info: imgs/de/g_hl_h2l2_1.png  used on input line 169.
+<imgs/5dof/de/g_hl_h2l2_1.png, id=36, 796.9775pt x 741.77126pt>
+File: imgs/5dof/de/g_hl_h2l2_1.png Graphic file (type png)
+<use imgs/5dof/de/g_hl_h2l2_1.png>
+Package pdftex.def Info: imgs/5dof/de/g_hl_h2l2_1.png  used on input line 188.
 (pdftex.def)             Requested size: 251.52441pt x 234.1006pt.
-<imgs/sa/g_hl_h2l2_1.png, id=35, 793.96625pt x 742.775pt>
-File: imgs/sa/g_hl_h2l2_1.png Graphic file (type png)
-<use imgs/sa/g_hl_h2l2_1.png>
-Package pdftex.def Info: imgs/sa/g_hl_h2l2_1.png  used on input line 175.
+<imgs/5dof/sa/g_hl_h2l2_1.png, id=37, 793.96625pt x 742.775pt>
+File: imgs/5dof/sa/g_hl_h2l2_1.png Graphic file (type png)
+<use imgs/5dof/sa/g_hl_h2l2_1.png>
+Package pdftex.def Info: imgs/5dof/sa/g_hl_h2l2_1.png  used on input line 194.
 (pdftex.def)             Requested size: 251.52441pt x 235.3014pt.
 
-Overfull \hbox (19.35199pt too wide) in paragraph at lines 167--179
+Overfull \hbox (19.35199pt too wide) in paragraph at lines 186--198
  []$[]$$[]$ 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imgs/de/g_hl_h1l1_1.png, id=36, 772.8875pt x 740.7675pt>
-File: imgs/de/g_hl_h1l1_1.png Graphic file (type png)
-<use imgs/de/g_hl_h1l1_1.png>
-Package pdftex.def Info: imgs/de/g_hl_h1l1_1.png  used on input line 190.
+<imgs/5dof/de/g_hl_h1l1_1.png, id=38, 772.8875pt x 740.7675pt>
+File: imgs/5dof/de/g_hl_h1l1_1.png Graphic file (type png)
+<use imgs/5dof/de/g_hl_h1l1_1.png>
+Package pdftex.def Info: imgs/5dof/de/g_hl_h1l1_1.png  used on input line 209.
 (pdftex.def)             Requested size: 251.52441pt x 241.07437pt.
-<imgs/sa/g_hl_h1l1_1.png, id=37, 775.89874pt x 734.745pt>
-File: imgs/sa/g_hl_h1l1_1.png Graphic file (type png)
-<use imgs/sa/g_hl_h1l1_1.png>
-Package pdftex.def Info: imgs/sa/g_hl_h1l1_1.png  used on input line 196.
+<imgs/5dof/sa/g_hl_h1l1_1.png, id=39, 775.89874pt x 734.745pt>
+File: imgs/5dof/sa/g_hl_h1l1_1.png Graphic file (type png)
+<use imgs/5dof/sa/g_hl_h1l1_1.png>
+Package pdftex.def Info: imgs/5dof/sa/g_hl_h1l1_1.png  used on input line 215.
 (pdftex.def)             Requested size: 251.52441pt x 238.18388pt.
 
-Overfull \hbox (19.35199pt too wide) in paragraph at lines 188--200
+Overfull \hbox (19.35199pt too wide) in paragraph at lines 207--219
  []$[]$$[]$ 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<imgs/de/g_hl_s1h0_1.png, id=38, 770.88pt x 745.78625pt>
-File: imgs/de/g_hl_s1h0_1.png Graphic file (type png)
-<use imgs/de/g_hl_s1h0_1.png>
-Package pdftex.def Info: imgs/de/g_hl_s1h0_1.png  used on input line 210.
+
+LaTeX Warning: Reference `figure08' on page 4 undefined on input line 223.
+
+<imgs/5dof/de/g_hl_s1h0_1.png, id=40, 770.88pt x 745.78625pt>
+File: imgs/5dof/de/g_hl_s1h0_1.png Graphic file (type png)
+<use imgs/5dof/de/g_hl_s1h0_1.png>
+Package pdftex.def Info: imgs/5dof/de/g_hl_s1h0_1.png  used on input line 229.
 (pdftex.def)             Requested size: 251.52441pt x 243.33356pt.
-<imgs/sa/g_hl_s1h0_1.png, id=39, 742.775pt x 738.76pt>
-File: imgs/sa/g_hl_s1h0_1.png Graphic file (type png)
-<use imgs/sa/g_hl_s1h0_1.png>
-Package pdftex.def Info: imgs/sa/g_hl_s1h0_1.png  used on input line 216.
+<imgs/5dof/sa/g_hl_s1h0_1.png, id=41, 742.775pt x 738.76pt>
+File: imgs/5dof/sa/g_hl_s1h0_1.png Graphic file (type png)
+<use imgs/5dof/sa/g_hl_s1h0_1.png>
+Package pdftex.def Info: imgs/5dof/sa/g_hl_s1h0_1.png  used on input line 235.
 (pdftex.def)             Requested size: 251.52441pt x 250.16054pt.
 
-Overfull \hbox (19.35199pt too wide) in paragraph at lines 208--220
+Overfull \hbox (19.35199pt too wide) in paragraph at lines 227--239
  []$[]$$[]$ 
  []
 
@@ -823,46 +847,52 @@ Overfull \hbox (19.35199pt too wide) in paragraph at lines 208--220
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-Underfull \vbox (badness 5133) has occurred while \output is active []
-
- [4 <./imgs/h0l0_h2l2.png> <./imgs/h0l0_tmim_en.png> <./imgs/de/g_hl_tmin_1.png
-> <./imgs/sa/g_hl_tmin_1.png>] (./encit2018final.bbl
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5 <./imgs/de/g_hl_h0l0_1.png> <./imgs/sa/g_hl_h0l0_1.png> <./imgs/de/g_hl_h2l
-2_1.png> <./imgs/sa/g_hl_h2l2_1.png>] [6 <./imgs/de/g_hl_h1l1_1.png> <./imgs/sa
-/g_hl_h1l1_1.png> <./imgs/de/g_hl_s1h0_1.png> <./imgs/sa/g_hl_s1h0_1.png>]) [7]
+ [4 <./imgs/4dof/h0l0-tmin.png> <./imgs/4dof/h0l0-h2l2.png> <./imgs/4dof/h0l0-h
+1l1.png> <./imgs/4dof/h0l0_s1h0.png>] (./encit2018final.bbl
+Underfull \vbox (badness 1931) has occurred while \output is active []
 
-(./encit2018final.aux) ) 
+ [5 <./imgs/5dof/de/g_hl_tmin_1.png> <./imgs/5dof/sa/g_hl_tmin_1.png> <./imgs/5
+dof/de/g_hl_h0l0_1.png> <./imgs/5dof/sa/g_hl_h0l0_1.png>] [6 <./imgs/5dof/de/g_
+hl_h2l2_1.png> <./imgs/5dof/sa/g_hl_h2l2_1.png> <./imgs/5dof/de/g_hl_h1l1_1.png
+> <./imgs/5dof/sa/g_hl_h1l1_1.png>]) [7 <./imgs/5dof/de/g_hl_s1h0_1.png> <./img
+s/5dof/sa/g_hl_s1h0_1.png>] (./encit2018final.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 5139 strings out of 494862
- 73726 string characters out of 6178947
- 148011 words of memory out of 5000000
- 8350 multiletter control sequences out of 15000+600000
+ 5155 strings out of 494862
+ 74297 string characters out of 6178947
+ 149011 words of memory out of 5000000
+ 8363 multiletter control sequences out of 15000+600000
  31792 words of font info for 39 fonts, out of 8000000 for 9000
  38 hyphenation exceptions out of 8191
  42i,11n,45p,1685b,534s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.
-enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/sha
-re/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy5.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6
-.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri
-8a.pfb>
-Output written on encit2018final.pdf (7 pages, 1118713 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmmi9.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/time
+s/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on encit2018final.pdf (7 pages, 1325079 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
+ 129 PDF objects out of 1000 (max. 8388607)
  71 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
